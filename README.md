@@ -1,1 +1,2 @@
-Currently functional: everything EXCEPT the favorites. They are currently adding to the DB but I have not been able to get them to show up.
+This project aims to allow a user to search for random or specific gifs via the Giphy API and save the gif url's and comments to a database. It is a full-stack project incorporating aspects of everything we have learned at Prime in the first 5 weeks of class.
+
